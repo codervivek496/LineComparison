@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\LineComp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\LineComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\LineComp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\LineComp.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\LineComp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LineComp\LineComp\bin\Debug\net6.0\LineComp.exe
+C:\Users\LENOVO\source\repos\LineComp\LineComp\bin\Debug\net6.0\LineComp.deps.json
+C:\Users\LENOVO\source\repos\LineComp\LineComp\bin\Debug\net6.0\LineComp.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LineComp\LineComp\bin\Debug\net6.0\LineComp.dll
+C:\Users\LENOVO\source\repos\LineComp\LineComp\bin\Debug\net6.0\LineComp.pdb
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\LineComp.dll
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\refint\LineComp.dll
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\LineComp.pdb
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\LineComp.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LineComp\LineComp\obj\Debug\net6.0\ref\LineComp.dll
