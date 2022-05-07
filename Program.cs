@@ -10,6 +10,7 @@ namespace LineComp
             LineComparison line = new LineComparison();
             line.calculatingLineLength();
             line.equalityOfTwoLines();
+            line.comparison();
         }
     }
 }

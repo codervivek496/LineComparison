@@ -40,7 +40,7 @@ namespace LineComp
 
         }
 
-        //******* Line is Equal OR NOt
+        //******* Line is Equal OR NOt *******
         public void equalityOfTwoLines()
         {
             if (lengthLine1 == lengthLine2)
@@ -49,8 +49,26 @@ namespace LineComp
             }
             else
             {
-                Console.WriteLine("Length od both lines are not equal");
+                Console.WriteLine("Length of both lines are not equal");
             }      
+        }
+        
+        //***First Line is equal or Greater Or LesserI***
+
+        public void comparison()
+        {
+            if (lengthLine1 == lengthLine2)
+            {
+                Console.WriteLine("Both the length os line is equal");
+            }
+            else if (lengthLine1 > lengthLine2)
+            {
+                Console.WriteLine("The length of First line is greater that second line");
+            }
+            else
+            {
+                Console.WriteLine("The lenght of second line is greater than first line");
+            }
         }
     }
 }
