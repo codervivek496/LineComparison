@@ -9,8 +9,7 @@ namespace LineComp
             Console.WriteLine("Welcome to Line Comparison Computation Program");
             LineComparison line = new LineComparison();
             line.calculatingLineLength();
+            line.equalityOfTwoLines();
         }
-
-    
     }
 }
